@@ -1,9 +1,9 @@
 {
-    "project_name": "My Project",
-    "project_description": "A brief description of the project",
-    "author_name": "Your Name",
-    "author_email": "",
-    "_copy_without_render": [
-        ".venv/*"
-    ]
+  "project_name": "my-project",
+  "project_description": "A brief description of the project.",
+  "author_name": "Jane Doe",
+  "author_email": "jane.doe@example.com",
+  "_copy_without_render": [
+    ".venv/**"
+  ]
 }
