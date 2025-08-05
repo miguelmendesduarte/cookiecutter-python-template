@@ -64,7 +64,7 @@ Before using this template, make sure you have the following installed:
 
 ## Usage
 
-Once your project is set up, you can start coding right away! The following commands are available to help with common tasks:
+Once your project is set up, **you can start coding** right away! 🥳 The following commands are available to help with common tasks:
 
 ### Initialize a Github Repository (Optional)
 
@@ -118,6 +118,20 @@ If needed, create your `.env` file by copying the example:
 ```bash
 cp .env.example .env
 ```
+
+### 🚢 Running with Docker
+
+1. Build the image:
+
+    ```bash
+    docker build -t my-project .
+    ```
+
+2. Run the container (default module: `src.main`):
+
+    ```bash
+    docker run --rm my-project
+    ```
 
 ## 🚀 Contributing
 
