@@ -36,10 +36,10 @@ Before using this template, make sure you have the following installed:
 2. Enter project details as prompted (example):
 
     ```bash
-    [1/4] project_name (My Project): my-project-test
-    [2/4] project_description (A brief description of the project): This is just a test project.
-    [3/4] author_name (Your Name): Miguel Duarte
-    [4/4] author_email (): miguel@gmail.com
+    [1/4] project_name (my-project): my-project-test
+    [2/4] project_description (A brief description of the project.): This is just a test project.
+    [3/4] author_name (Jane Doe): Miguel Duarte
+    [4/4] author_email (jane.dow@example.com): miguel@gmail.com
     ```
 
     ⚠️ **Note**: The project name should use dashes (`-`) instead of spaces.
