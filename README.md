@@ -23,7 +23,7 @@ Before using this template, make sure you have the following installed:
     pip install cookiecutter
     ```
 
-- [uv](https://docs.astral.sh/uv/) (check [this link](https://docs.astral.sh/uv/getting-started/installation/) for more details).
+- **uv** (check [this link](https://docs.astral.sh/uv/getting-started/installation/) for more details).
 
 ## Installation
 
@@ -44,7 +44,7 @@ Before using this template, make sure you have the following installed:
 
     ⚠️ **Note**: The project name should use dashes (`-`) instead of spaces.
 
-3. Navigate to the project folder (replace `<your-project-folder>` with the actual folder name you provided in **Step 2**):
+3. Navigate to the project folder (replace `<your-project-folder>` with the actual folder name):
 
     ```bash
     cd <your-project-folder>
