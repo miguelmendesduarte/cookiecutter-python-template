@@ -1,6 +1,6 @@
 {
   "project_name": "my-project",
-  "project_description": "A brief description of the project.",
+  "project_description": "A brief description of the project",
   "author_name": "Jane Doe",
   "author_email": "jane.doe@example.com",
   "_copy_without_render": [
